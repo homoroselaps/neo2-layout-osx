@@ -1,0 +1,128 @@
+�<>0<>Null Character
+<>1<>Start Of Heading
+<>2<>Start Of Text
+<>3<>End-of-text Character
+<>4<>End-of-transmission Character
+<>5<>Enquiry Character
+<>6<>Acknowledge Character
+<>7<>Bell Character
+<>8<>Backspace
+<>9<>Horizontal Tab
+<>0A<>Line Feed
+<>0B<>Vertical Tab
+<>0C<>Form Feed
+<>0D<>Carriage Return
+<>0E<>Shift Out
+<>0F<>Shift In
+<>10<>Data Link Escape
+<>11<>Device Control 1
+<>12<>Device Control 2
+<>13<>Device Control 3
+<>14<>Device Control 4
+<>15<>Negative-acknowledge Character
+<>16<>Synchronous Idle
+<>17<>End Of Transmission Block
+<>18<>Cancel Character
+<>19<>End Of Medium
+<>1A<>Substitute Character
+<>1B<>Escape Character
+<>1C<>File Separator
+<>1D<>Group Separator
+<>1E<>Record Separator
+<>1F<>Unit Separator
+<>20<>Space
+!<>21<>Exclamation Mark
+"<>22<>Quotation Mark
+#<>23<>Hash Tag
+$<>24<>Dollar Sign
+%<>25<>Percent Sign
+&<>26<>Ampersand
+'<>27<>Apostrophe
+(<>28<>Left Parenthesis
+)<>29<>Right Parenthesis
+*<>2A<>Asterisk
++<>2B<>Plus Sign
+,<>2C<>Comma
+-<>2D<>Hyphen-minus
+.<>2E<>Full Stop
+/<>2F<>Slash (solidus)
+0<>30<>Digit Zero
+1<>31<>Digit One
+2<>32<>Digit Two
+3<>33<>Digit Three
+4<>34<>Digit Four
+5<>35<>Digit Five
+6<>36<>Digit Six
+7<>37<>Digit Seven
+8<>38<>Digit Eight
+9<>39<>Digit Nine
+:<>3A<>Colon
+;<>3B<>Semicolon
+<<>3C<>Less-than Sign
+=<>3D<>Equal Sign
+><>3E<>Greater-than Sign
+?<>3F<>Question Mark
+@<>40<>At Sign
+A<>41<>Latin Capital Letter A
+B<>42<>Latin Capital Letter B
+C<>43<>Latin Capital Letter C
+D<>44<>Latin Capital Letter D
+E<>45<>Latin Capital Letter E
+F<>46<>Latin Capital Letter F
+G<>47<>Latin Capital Letter G
+H<>48<>Latin Capital Letter H
+I<>49<>Latin Capital Letter I
+J<>4A<>Latin Capital Letter J
+K<>4B<>Latin Capital Letter K
+L<>4C<>Latin Capital Letter L
+M<>4D<>Latin Capital Letter M
+N<>4E<>Latin Capital Letter N
+O<>4F<>Latin Capital Letter O
+P<>50<>Latin Capital Letter P
+Q<>51<>Latin Capital Letter Q
+R<>52<>Latin Capital Letter R
+S<>53<>Latin Capital Letter S
+T<>54<>Latin Capital Letter T
+U<>55<>Latin Capital Letter U
+V<>56<>Latin Capital Letter V
+W<>57<>Latin Capital Letter W
+X<>58<>Latin Capital Letter X
+Y<>59<>Latin Capital Letter Y
+Z<>5A<>Latin Capital Letter Z
+[<>5B<>Left Square Bracket
+\<>5C<>Backslash
+]<>5D<>Right Square Bracket
+^<>5E<>Circumflex Accent
+_<>5F<>Low Line
+`<>60<>Grave Accent
+a<>61<>Latin Small Letter A
+b<>62<>Latin Small Letter B
+c<>63<>Latin Small Letter C
+d<>64<>Latin Small Letter D
+e<>65<>Latin Small Letter E
+f<>66<>Latin Small Letter F
+g<>67<>Latin Small Letter G
+h<>68<>Latin Small Letter H
+i<>69<>Latin Small Letter I
+j<>6A<>Latin Small Letter J
+k<>6B<>Latin Small Letter K
+l<>6C<>Latin Small Letter L
+m<>6D<>Latin Small Letter M
+n<>6E<>Latin Small Letter N
+o<>6F<>Latin Small Letter O
+p<>70<>Latin Small Letter P
+q<>71<>Latin Small Letter Q
+r<>72<>Latin Small Letter R
+s<>73<>Latin Small Letter S
+t<>74<>Latin Small Letter T
+u<>75<>Latin Small Letter U
+v<>76<>Latin Small Letter V
+w<>77<>Latin Small Letter W
+x<>78<>Latin Small Letter X
+y<>79<>Latin Small Letter Y
+z<>7A<>Latin Small Letter Z
+{<>7B<>Left Curly Bracket
+|<>7C<>Vertical Bar
+}<>7D<>Right Curly Bracket
+~<>7E<>Tilde
+<>7F<>Delete
